@@ -19,8 +19,9 @@ No need to strictly match the plot in the template.
 
 
 ### 2.3 Question 1.3 (2)
-reasonable answer that mentions the limitation of histogram (works with numerical data in both axis),
-and the country name is nominal data.
+reasonable answers that cover these:
+1. mention the limitation of histogram (works with numerical data in both axis), and the country name is nominal data.
+2. countplot is NOT the right tool for the job because we're currently analyzing quantitative data. Countplot is a vizualization tool traditionally used for categorical data
 
 ### 2.4 Question 1.4 (3)
 order of plots do not matter. They can be stacked vertically or horizontally.
@@ -54,6 +55,7 @@ No need to strictly match the plot in the template, as long as the values seem c
 No need to strictly match the plot in the template, as long as the values seem correct.
 
 ### 2.8 Question 1.8 (3)
+#### plot might be different from the template because students didn't remove the NA before. This is fine as long as code is correct. We should still give full points if correct.
 #### logarithmic transformation of data (2)
 check code if plot is not correct for this part.
 #### plot for Gross National Income Per Capita (1)
@@ -62,6 +64,8 @@ If the plot does not seem correct, check if logarithmic is correct. If the logar
 is wrong, but the plot is consistent with the wrongly transformed value, then give points for plotting
 
 ## Part 2: Kernel Density Estimation (24)
+#### If students didn't use correct datapoint, we can correct it for them ([2,4,9]). If result is correct, they still get full point.
+
 ### 4.1 Question 2.1
 #### function implementation (2)
 can directly check correctness by the plot
@@ -83,7 +87,7 @@ don't have to strictly match, just check if value seems reasonable.
 #### plot as before in Question 1.8 (check template) (1)
 
 ### 4.5 Question 2.5 (6)
-#### logarithmic transform of the datapoint (2)
+#### use world bank data and logarithmic transform of the datapoint (2)
 #### sum of all kernels (2)
 #### normalize after sum (check value range for this part) (1)
 #### tuned alpha so that plot matches the one in the template (1)
