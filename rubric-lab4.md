@@ -26,6 +26,7 @@ reasonable answers that cover these:
 4. too many specific individual values for the literacy rates and gross national income rates. in both graphs most of the values just have a single count.
 5. count for gross income per capita doesn't make sense
 6. In our data the index of each row is based on the country. So naturally we would want to understand the income and literacy rate referring to each country rather than how many countries match a literacy rate or income per capita
+7. too many datapoints in x-axis. (make sense because if the datapoints are fewer, then it's easier to tell from countplot)
 
 ### 2.4 Question 1.4 (3)
 order of plots do not matter. They can be stacked vertically or horizontally.
