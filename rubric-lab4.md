@@ -24,6 +24,7 @@ and the country name is nominal data.
 
 ### 2.4 Question 1.4 (3)
 order of plots do not matter. They can be stacked vertically or horizontally.
+#### if they didn't specify y=df.index, which thus shows a single bar in each plot, then we deduct 1 point in total.
 #### plot for Female Adult Literacy (1.5)
 order of country names in the plot dosen't matter, as long as the values seem correct would be fine.
 No need to strictly match the plot in the template.
