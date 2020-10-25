@@ -23,6 +23,9 @@ reasonable answers that cover these:
 1. mention the limitation of histogram (works with numerical data in both axis), and the country name is nominal data.
 2. countplot is NOT the right tool for the job because we're currently analyzing quantitative data. Countplot is a vizualization tool traditionally used for categorical data
 3. countplot is used for categorical data.but literacy rates and income per capita are numerical variables
+4. too many specific individual values for the literacy rates and gross national income rates. in both graphs most of the values just have a single count.
+5. count for gross income per capita doesn't make sense
+6. In our data the index of each row is based on the country. So naturally we would want to understand the income and literacy rate referring to each country rather than how many countries match a literacy rate or income per capita
 
 ### 2.4 Question 1.4 (3)
 order of plots do not matter. They can be stacked vertically or horizontally.
