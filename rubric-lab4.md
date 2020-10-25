@@ -22,6 +22,7 @@ No need to strictly match the plot in the template.
 reasonable answers that cover these:
 1. mention the limitation of histogram (works with numerical data in both axis), and the country name is nominal data.
 2. countplot is NOT the right tool for the job because we're currently analyzing quantitative data. Countplot is a vizualization tool traditionally used for categorical data
+3. countplot is used for categorical data.but literacy rates and income per capita are numerical variables
 
 ### 2.4 Question 1.4 (3)
 order of plots do not matter. They can be stacked vertically or horizontally.
@@ -98,6 +99,7 @@ don't need to be strict, as long as shape looks similar will be fine
 #### sum of all kernels (2)
 #### normalize after sum (1)
 #### other correctness (2)
+If the plot doesn't show density, it might be due to NaN values. In this case, we can help them filter out nan using np.isnan.
 can check template for correctness
 
 ### 4.7 Question 2.7 (2)
