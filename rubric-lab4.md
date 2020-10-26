@@ -106,7 +106,8 @@ don't need to be strict, as long as shape looks similar will be fine
 If the plot doesn't show density, it might be due to NaN values. In this case, we can help them filter out nan using np.isnan.
 can check template for correctness
 
-### 4.7 Question 2.7 (2)
+### 4.7 Question 2.7 (2) Free Points
+#### the font size is too small. Let's just give them free points for this question.
 #### compare and contrast Gaussian and Boxcar kernels. Any reasonable answers will get full mark.
 
 ## Lab Feedback (5)
