@@ -145,7 +145,7 @@ Either row or column is fine since sklearn is treating each component as row vec
 # PART 6: Twitter Engagement (Total Point: 9)
 ## Task 6.1: popular retweeted words (7)
 ### find words that appear in at least 25 tweets (3)
-### group by word to compute mean of the retweet count for each word (2)
+### group by word to compute mean or any statistics (median, sum, etc.) of the retweet count for each word (2)
 ### sort the retweet count to find the top 20 (2)
 The solution may not match the template, and we should check the code.
 
