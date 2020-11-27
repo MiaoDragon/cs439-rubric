@@ -45,11 +45,13 @@ If they have already reformatted in Task 3.1, then check there what procedures t
 ### remove HTML tags (2)
 ### Full point if HTML tags are removed and ignore the above two rubric. (3=1+2)
 ### count the number of tweets for each source (2)
-### sort the number of tweets (1)
-### plot the sorted tweets (1)
+### plot the sorted tweets (2)
 Check result if it still has HTML tags in source. As long as HTML tags are gone, students don't have to use regular expression.
 
 due to loading issue, the plot might not look exactly the same. In this case, check the code.
+
+No need to sort the tweets.
+
 ## Task 3.4: analyze w.r.t. device (5)
 ### first plot: plot either hour column, or roundhour column by countplot (1)
 ### second plot: extract dataframe where source has the two specified values (2)
