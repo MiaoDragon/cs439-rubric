@@ -124,7 +124,7 @@ Both outputs containing duplicates and not containing duplicates are fine.
 ### find the first 5000 ids, or any 5000 selected tweets (2)
 ### create the document-frequency matrix where rows correspond to tweets, and columns correspond to number of appearances of each word. (3)
 
-**Students might shift the document-frequency matrix creation to later tasks. This is fine, and we just need to move the grading to the corresponding part.
+**Students might shift the document-frequency matrix creation to later tasks. This is fine, and we just need to move the grading to the corresponding part.**
 
 Other custom cleaning can also be done, including removing words which are numeric, and removing too-short words. Since they are not mentioned in the instructions, students are free to implement them.
 
