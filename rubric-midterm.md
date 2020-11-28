@@ -133,7 +133,7 @@ The result will most likely be different from the templates. Check the code.
 
 ## Task 5.2: Find the PCA's (5)
 ### fit the sklearn PCA on the DF matrix (3)
-### print the components (2)
+### print the components, and create the correct component matrix, not transformed data (2)
 Students might subtract by mean first, which would be fine.
 Check the code for correctness.
 
