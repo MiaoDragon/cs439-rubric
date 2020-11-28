@@ -5,6 +5,9 @@ different filtering methods for the word. We just need to make sure the solution
 Extra credit is only given to students who **work alone**.
 
 **Note: if there is variable naming issue and the code is wrong only because of that, we only deduct 1 point.**
+if there is variable naming issue and the code is wrong only because of that, we only deduct 1 point
+There might be multiple naming error. In this case, if the multiple errors belong to one rubric point, then we deduct by
+min{sum of # naming error, rubric point}
 
 # PART 1: Accessing Twitter API (optional for individuals) (Extra Credit 6)
 ## Task 1.1 (Extra Credit 4)
