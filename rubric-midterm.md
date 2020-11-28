@@ -122,7 +122,8 @@ Both outputs containing duplicates and not containing duplicates are fine.
 ### count the number of words (2)
 ### find the 50 largest count of the word (2)
 ### find the first 5000 ids, or any 5000 selected tweets (2)
-### create the document-frequency matrix where rows correspond to tweets, and columns correspond to number of appearances of each word. (3)
+### create the document-frequency matrix where rows correspond to tweets, and columns correspond to number of appearances of each word. (2)
+### count the appearance of each word, but not just checking if each word appears in the document. (1)
 
 **Students might shift the document-frequency matrix creation to later tasks. This is fine, and we just need to move the grading to the corresponding part.**
 
