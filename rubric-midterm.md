@@ -4,6 +4,8 @@ different filtering methods for the word. We just need to make sure the solution
 
 Extra credit is only given to students who **work alone**.
 
+**Note: if there is variable naming issue and the code is wrong only because of that, we only deduct 1 point.**
+
 # PART 1: Accessing Twitter API (optional for individuals) (Extra Credit 6)
 ## Task 1.1 (Extra Credit 4)
 ## Task 1.2 (Extra Credit 2)
