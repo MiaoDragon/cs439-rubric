@@ -23,7 +23,9 @@ Notice that the analytical loss may not be the same as the template. It can be t
 - if using **inv** then since the solver is not stable (can be dramatic difference in analytical loss), so we just ignore the analytical loss.
 
 ### Task 3.3: Weird Results? (3)
-the student can show their reasoning for np.linalg.inv VS np.linalg.solve, or np.linalg.pinv VS np.linalg.solve. Anything mentioning the underlying numerical implementation would be awarded.
+the student can show their reasoning for np.linalg.inv VS np.linalg.solve, or np.linalg.pinv VS np.linalg.solve. 
+
+Anything mentioning the underlying numerical implementation would be awarded.
 
 ## Part 4 - Logistic Regression (20)
 ### task 4.1 (6)
