@@ -6,10 +6,16 @@
 #### 1 point for each answer.
 #### if chosen wrong answer, then deduct 1 point, until 0 point
 
-### 2.[Discussing with Prof.] Given below is a plot of a data set (x,y) points.
-#### (a) (1)
-#### (b) (1)
-#### (c) (1)
+### 2.Given below is a plot of a data set (x,y) points.
+#### (a) (1) sample solution: theta0=0, theta1=1
+#### (b) (1) sample solution: theta0=0, theta1=1, theta2=0
+#### (c) (1) sample solution: theta0=0, theta1=1, theta2=10
+it’s approximately a sinusoid + linear function that passes through (0,0) and (5,-5) (we can approximately treat (5,-5) to be the lowest point of the sin). The linear function passes through (0,0) and (-10, -10).
+The function is thus approximately
+
+y = x + 10sinx
+
+The given solution seems to have a y-axis that is not straight. So we should check students' answers by plotting and see if they fit individually.
 
 ### 3.
 #### (a) (1) 
@@ -75,8 +81,9 @@ notice that covariance being zero doesn't apply they are independent random vari
 ##### Acceptable Answer: use validation set to select lambda
 
 ## Question 5. Unsupervised Learning (10)
-### 1.[Still Discussing with Prof.] (1)
+### 1.(1)
 #### Given correct answer: (b), (c), (e)
+treat (a) as a free point, and don’t deduct or give student’s points if they choose it
 ### 2.
 #### (a) (1)
 ##### Random
@@ -88,6 +95,8 @@ notice that covariance being zero doesn't apply they are independent random vari
 #### (d) (1)
 ##### pull the center toward the outlier; remove outliers, or remove distance that is too large
 #### (e) O((mk+m)t)  (1)
+##### 0.5pt if O(mkt), and 0.5pt if O(mt)
+##### 0.5pt if solution is simplified
 #### (f) Computing/Recomputing Centers  (1)
 
 ### 3.
@@ -96,7 +105,7 @@ notice that covariance being zero doesn't apply they are independent random vari
 Also Accetable: find better centers
 #### (b) (1)
 ##### Roughly same performance (0.5), but can have better centers (0.5).
-#### (c)[Discussing with Prof.] m(1+2+...+k-1)=O(mk(k-1)/2)  (1)
+#### (c) m(1+2+...+k-1)=O(mk(k-1)/2)  (1)
 
 ## Question 6. Deep Learning (10)
 ### 1.
