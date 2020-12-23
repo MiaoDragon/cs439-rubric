@@ -117,7 +117,7 @@ mentioning can have better center will also have full point.
 ##### Mention any of: domain knowledge, validation test
 ### 2.
 #### (a) (1.5)
-##### theta1=1, theta2=1, theta0 can be [-2,1)   (can be infinitely many correct ones, just check each one)
+##### theta1=1, theta2=1, theta0 can be [-2,-1)   (can be infinitely many correct ones, just check each one)
 #### (b) (1.5)
 ##### theta1=1, theta2=1, theta0=-1              (can be infinitely many correct ones, just check each one)
 #### (c) (1)
