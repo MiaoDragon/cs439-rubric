@@ -97,6 +97,7 @@ treat (a) as a free point, and don’t deduct or give student’s points if they
 ##### pull the center toward the outlier (0.5); 
 ##### remove outliers, or remove distance that is too large; assigning less weight to outliers (0.5)
 #### (e) O((mk+m)t)  (1)
+students can use 100 for t, hence O(100(mk+m))
 ##### 0.5pt if O(mkt), and 0.5pt if O(mt)
 ##### 0.5pt if solution is simplified
 #### (f) Computing/Recomputing Centers  (1)
