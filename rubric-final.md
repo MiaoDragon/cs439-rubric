@@ -94,7 +94,7 @@ treat (a) as a free point, and don’t deduct or give student’s points if they
 ##### Acceptable answer: the overall error decreases
 ##### Acceptable answer: the training error decreases, but the testing error increases
 #### (d) (1)
-##### pull the center toward the outlier; remove outliers, or remove distance that is too large
+##### pull the center toward the outlier; remove outliers, or remove distance that is too large; assigning less weight to outliers
 #### (e) O((mk+m)t)  (1)
 ##### 0.5pt if O(mkt), and 0.5pt if O(mt)
 ##### 0.5pt if solution is simplified
