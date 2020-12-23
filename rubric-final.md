@@ -35,7 +35,7 @@ The given solution seems to have a y-axis that is not straight. So we should che
 #### (a)  4  (1)
 #### (b)  1  (1)
 #### (c)  3  (1)
-#### (d) 1/3  (2)
+#### (d) 2/5  (2)
 
 ### 2. (5)
 #### (a) (1)
@@ -82,7 +82,7 @@ notice that covariance being zero doesn't apply they are independent random vari
 
 ## Question 5. Unsupervised Learning (10)
 ### 1.(1)
-#### Given correct answer: (b), (c), (e)
+#### Given correct answer: (b), (c), (e) (0.3pt for each one, 1pt if got all right)
 treat (a) as a free point, and don’t deduct or give student’s points if they choose it
 ### 2.
 #### (a) (1)
