@@ -105,7 +105,8 @@ treat (a) as a free point, and don’t deduct or give student’s points if they
 ##### find centers iteratively to maximize center variation.
 Also Accetable: find better centers
 #### (b) (1)
-##### Roughly same performance (0.5), but can have better centers (0.5).
+##### Roughly same performance (1).
+mentioning can have better center will also have full point.
 #### (c) m(1+2+...+k-1)=O(mk(k-1)/2)  (1)
 
 ## Question 6. Deep Learning (10)
