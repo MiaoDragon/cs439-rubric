@@ -19,6 +19,8 @@ The given solution seems to have a y-axis that is not straight. So we should che
 
 ### 3.
 Since the hint mentions to look for a clear minima, most students have answered only in terms of this. None mentions the points in the rubric of differentiable, concave, convex, smooth. If they answered in terms of clear minima, give full points. 
+
+if students showed why a and b are good then that's enough and we give full points.
 #### (a) (1) 
 ##### Mention that the function is not smooth will be fine. The exact answer to whether it's "good" or not doesn't matter.
 #### (b) (1) 
