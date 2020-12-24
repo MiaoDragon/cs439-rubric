@@ -140,6 +140,7 @@ Also if students didn't draw the network it would be fine as well.
 ### 3. (6)
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BAW%7D%3D3.5%2C%20X_%7BAZ%7D%3D3.5%2C%20X_%7BBX%7D%2C%20X_%7BBZ%7D%2C%20X_%7BCW%7D%3D3.75%2C%20X_%7BCY%7D%3D%2C%20X_%7BDW%7D%3D4.5)
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BBX%7D%3D%5Cbar%7Bx%7D_B&plus;%5Cfrac%7Bw_%7BBA%7D%28X_%7BAX%7D-%5Cbar%7Bx%7D_A%29&plus;w_%7BBD%7D%28X_%7BDX%7D-%5Cbar%7BX%7D_D%29%7D%7Bw_%7BBA%7D&plus;w_%7BBD%7D%7D%3D%5C%5C%20%5Cquad%5Cquad%5Cquad%5Cquad%20%5Cfrac%7B4.0&plus;3.5%7D%7B2%7D&plus;%5Cfrac%7B1.5%284.5-%284.5&plus;2%29/2%29&plus;1.5%283.5-%283.5&plus;4&plus;1%29/3%29%7D%7B1.5&plus;1.5%7D%3D0.95833)
+#### Ignore the final result above, it should be X_BX = 4.7083
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BBZ%7D%3D%5Cbar%7Bx%7D_B&plus;X_%7BDZ%7D-%5Cbar%7Bx%7D_D%3D1.9167)
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BCY%7D%3D%5Cbar%7Bx%7D_C&plus;%5Cfrac%7Bw_%7BCA%7D%28X_%7BAY%7D-%5Cbar%7Bx%7D_A%29&plus;w_%7BCD%7D%28X_%7BDY%7D-%5Cbar%7Bx%7D_D%29%7D%7Bw_%7BCA%7D&plus;w_%7BCD%7D%7D%5C%5C%20%5Cquad%5Cquad%5Cquad%5Cquad%3D3.5&plus;%5Cfrac%7B0.5%282-3.25%29&plus;2.5%284-%5Cfrac%7B8.5%7D%7B3%7D%29%7D%7B3%7D%3D4.2639)
 
