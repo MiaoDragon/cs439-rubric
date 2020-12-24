@@ -65,6 +65,7 @@ Since the hint mentions to look for a clear minima, most students have answered 
 notice that covariance being zero doesn't apply they are independent random variables, but only linearly independent.
 
 ### 5. plane  (2)
+#### if draw something in 3d, or in other ways to answer something that is similar but not exactly plane, then give 1 pt.
 ### 6. <= 1/2 num of columns  (2)
 #### if specify that rank will be reduced, but not mentioning the exact number, get 1 point
 
