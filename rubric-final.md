@@ -117,6 +117,7 @@ mentioning can have better center will also have full point.
 ##### 3*4+4*2=20
 #### (b) (1)
 ##### Mention any of: domain knowledge, validation test
+##### a lot of students mentioned 2/3 of input+output size. Maybe they got this from some resources. We should give points as well.
 ### 2.
 #### (a) (1.5)
 ##### theta1=1, theta2=1, theta0 can be [-2,-1)   (can be infinitely many correct ones, just check each one)
