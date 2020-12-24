@@ -134,6 +134,8 @@ Notice that students don't have to draw networks
 Notice that if students only provide theta0, theta1 and theta2 would be fine as well. Since the problem didn't specify.
 Also if students didn't draw the network it would be fine as well.
 
+Some students might treat y1 and y2 as 0/1 outputs using sigmoid. If this way works we can give full point.
+
 ## Question 7. Recommendation System (10)
 ### 1. (2) 
 #### example: recommending products, customized ads, email
