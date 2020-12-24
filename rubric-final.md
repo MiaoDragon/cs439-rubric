@@ -143,6 +143,7 @@ Also if students didn't draw the network it would be fine as well.
 #### Ignore the final result above, it should be X_BX = 4.7083
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BBZ%7D%3D%5Cbar%7Bx%7D_B&plus;X_%7BDZ%7D-%5Cbar%7Bx%7D_D%3D1.9167)
 #### ![equation](https://latex.codecogs.com/gif.latex?X_%7BCY%7D%3D%5Cbar%7Bx%7D_C&plus;%5Cfrac%7Bw_%7BCA%7D%28X_%7BAY%7D-%5Cbar%7Bx%7D_A%29&plus;w_%7BCD%7D%28X_%7BDY%7D-%5Cbar%7Bx%7D_D%29%7D%7Bw_%7BCA%7D&plus;w_%7BCD%7D%7D%5C%5C%20%5Cquad%5Cquad%5Cquad%5Cquad%3D3.5&plus;%5Cfrac%7B0.5%282-3.25%29&plus;2.5%284-%5Cfrac%7B8.5%7D%7B3%7D%29%7D%7B3%7D%3D4.2639)
+#### 3pt if using the equation provided, but the final solution is wrong.
 
 ## Last Question 
 ### Nothing  0
