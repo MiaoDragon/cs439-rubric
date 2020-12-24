@@ -56,7 +56,7 @@ Since the hint mentions to look for a clear minima, most students have answered 
 
 ### 2. sqrt(18)  (1)
 
-### 3. 4/5  (2)
+### 3. not orthogonal since the inner product is nonzero (2)
 
 ### 4.
 #### (a) the difference between the two rows are zero  (1)
