@@ -101,7 +101,7 @@ treat (a) as a free point, and don’t deduct or give student’s points if they
 ##### pull the center toward the outlier (0.5); 
 ##### remove outliers, or remove distance that is too large; assigning less weight to outliers (0.5)
 #### (e) O((mk+m)t), or O(mkt), or O(100mk)  (1)
-students can use 100 for t, hence O(100(mk+m))
+students can use 100 for t, hence O(100(mk+m)) and others
 
 #### (f) Computing/Recomputing Centers, or assigning new centers, or iterations  (1)
 
